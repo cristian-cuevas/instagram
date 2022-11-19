@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: rgba(0, 0, 0, 0.938);
+}
+
+/*all card*/
+.ppost{
+    width: 500px;
+    height: auto;
+    margin: 100px;
+    background: white;
+
+    
+}
+
+/*header*/
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+.logo{
+    width: 30px;
+        
+}
+.phleft{
+    display: flex;
+}
+
+.description{
+    display: block;
+
+    
+    
+}
+
+/*footer*/
+
+
+.first, .bookmark{
+    cursor: pointer;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+  
+}
+.paragraph{
+    padding:  2%;
+}
